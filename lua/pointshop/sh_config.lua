@@ -1,3 +1,5 @@
+-- deprecated.
+
 PS.Config = {}
 
 -- Edit below
