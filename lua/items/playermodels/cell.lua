@@ -1,6 +1,6 @@
-ITEM.Name = 'Cell'
+ITEM.Name = 'Chell'
 ITEM.Price = 400
-ITEM.Model = 'models/player/p2_cell.mdl'
+ITEM.Model = 'models/player/p2_chell.mdl'
 
 function ITEM:OnEquip(ply, modifications)
 	if not ply._OldModel then
